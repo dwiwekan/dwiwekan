@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwiwekan&label=Profile%20views&color=0e75b6&style=flat" alt="dwiwekan" /> </p>
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I love to learn especially related with **Data and AI**
 
-- 📝 I regularly write articles on [https://medium.com/@dwiwekan](https://medium.com/@dwiwekan)
+- 📝 I write articles on [https://medium.com/@dwiwekan](https://medium.com/@dwiwekan)
 
 - 💬 Let's discuss about **AI**
 
 - 📫 How to reach me **dwiwekan@gmail.com**
 
-- ⚡ Fun fact **Curiosity and Learning**
+- ⚡ Fun fact **I am Funny, Criticism, Eagerly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
