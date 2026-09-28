@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nara</h1>
 
+<h3 align="center">I'm Nara, an M.S. candidate in Robotics at Kwangwoon University with a strong interest in Artificial Intelligence and how it can connect with robotics and the physical world. My work spans Computer Vision, Multimodal AI, Generative AI, 3D Scene Understanding, SLAM, and Autonomous Navigation, from developing AI models to deploying perception and navigation systems on real robots. I enjoy building intelligent systems that help machines better understand, reason about, and interact with their environment, and commercialize it.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwiwekan&label=Profile%20views&color=0e75b6&style=flat" alt="dwiwekan" /> </p>
 
 - 🌱 I love to learn especially related with **Data, AI, and Robotics**
