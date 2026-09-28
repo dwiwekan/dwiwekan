@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nara</h1>
-<h3 align="center">I am a fresh graduate of Information Technology with a strong interest in the field of Data Science. I am always eager to learn new things and enjoy exploring the vast and complex world of data. My passion for understanding and working with data drives me to continuously improve my skills and knowledge in this field</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwiwekan&label=Profile%20views&color=0e75b6&style=flat" alt="dwiwekan" /> </p>
 
-- 🌱 I love to learn especially related with **Data and AI**
+- 🌱 I love to learn especially related with **Data, AI, and Robotics**
 
 - 📝 I write articles on [https://medium.com/@dwiwekan](https://medium.com/@dwiwekan)
 
-- 💬 Let's discuss about **AI**
+- 💬 Let's discuss about **AI & Robotics**
 
 - 📫 How to reach me **dwiwekan@gmail.com**
 
